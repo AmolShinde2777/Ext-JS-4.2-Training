@@ -23,7 +23,7 @@ Steps to Create sample Ext JS application:
    
 5.	Run command -  sencha app build in your my-app
 
-6.	After starting apache your app should be running o url – http://localhost:8080/sencha-training/my-app/
+6.	After starting apache server - your app should be running on url – http://localhost:8080/sencha-training/my-app/
 
 
 
