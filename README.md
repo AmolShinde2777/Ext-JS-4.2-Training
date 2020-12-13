@@ -1,3 +1,30 @@
+Ext JS Version – 4.2
+
+We will be covering below topics/points:
+    •	What is Ext JS?
+
+    •	Why Ext JS?
+
+    •	Advantages over other JS framework or libraries.
+
+    •	Viewport and Layouts
+
+    •	Grid, model and store
+
+    •	Form
+
+    •	Combobox
+
+    •	Textfield and TextArea
+
+    •	Xtemplate
+
+    •	DisplayField
+
+    •	Ajax Request - Get,Post
+
+    •	Assignments
+
 Prerequisite for Ext JS Setup:
 
 1.	XAMPP - We will use apache as web server
