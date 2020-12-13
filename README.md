@@ -1,6 +1,7 @@
 Ext JS Version – 4.2
 
 We will be covering below topics/points:
+
     •	What is Ext JS?
 
     •	Why Ext JS?
