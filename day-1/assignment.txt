@@ -1,0 +1,45 @@
+Day 1 - Assignment
+
+1) Explore different types of columns
+- Action
+- Boolean
+- CheckColumn
+- Column
+- Date
+- Number
+- RowNumberer
+- Template
+
+2) Load data from json file into grid
+- you need to proxy type memory to ajax in store
+For example - In GridStore.js you will find below code
+
+proxy: {
+	type: 'memory',
+	reader: {
+		type: 'json',
+		root: 'items'
+	}
+}
+
+you need change as follows:
+
+autoLoad: true, // store property to load store
+proxy: {
+	type: 'ajax',
+	url: 'data/users.json', // give your file path
+	reader: {
+		type: 'json',
+		root: 'items'
+	}
+}
+
+- Remove hard coded data from GridPanel.js and copy that into you json file.
+
+https://docs.sencha.com/extjs/4.2.1/#!/api/Ext.data.proxy.Proxy
+https://stackoverflow.com/questions/23736235/extjs-could-not-load-data-to-grid-from-json-file
+https://forum.sencha.com/forum/showthread.php?215035-Reading-and-displaying-data-in-extjs-from-a-Json-file
+
+
+	
+	
