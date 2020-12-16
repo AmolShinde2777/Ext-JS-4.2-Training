@@ -1,0 +1,16 @@
+Day 2 - Assignment
+
+1) Add save and cancel button on window
+   Explore how we can dock items at bottom of window
+   https://docs.sencha.com/extjs/4.2.1/#!/api/Ext.panel.AbstractPanel-cfg-dockedItems
+
+2) Explore different layout
+   - Fit
+   - HBox
+   - VBox
+   - Form
+   - Table
+   - Absolute
+   - Accordion
+   - Anchor
+  https://docs.sencha.com/extjs/4.2.1/#!/api/Ext.layout.Layout
