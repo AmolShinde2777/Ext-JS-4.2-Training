@@ -54,6 +54,16 @@ Steps to Create sample Ext JS application:
 6.	After starting apache server - your app should be running on url – http://localhost:8080/sencha-training/my-app/
 
 
+To Run examples from this training session please follow below steps:
+
+1. Suppose if you want to run day-1 code, donwload/clone repo.
+2. Copy app folder
+3. Paste app folder into your app directory for example - http://localhost:8080/sencha-training/my-app/
+4. Run 'Sencha app build' command
+5. Run application on localhost, if you dont have web server, just open index.html file in any browser.
+
+
+
 
 
 
