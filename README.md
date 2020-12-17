@@ -55,7 +55,7 @@
 
 
 
-****To Run examples from this training session please follow below steps***
+***To Run examples from this training session please follow below steps***
 
 1. Suppose if you want to run day-1 code, donwload/clone repo.
 2. Copy app and resources folder
