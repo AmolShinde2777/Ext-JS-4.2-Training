@@ -57,7 +57,7 @@
 
 ***To Run examples from this training session please follow below steps***
 
-1. Suppose if you want to run day-1 code, donwload/clone repo.
+1. Suppose if you want to run day-1 code, dowload/clone repo.
 2. Copy app and resources folder
 3. Paste/Replace app and resources folder into your app directory for example - http://localhost:8080/sencha-training/my-app/
 4. Run 'Sencha app build' command
