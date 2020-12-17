@@ -1,6 +1,6 @@
-Ext JS Version – 4.2
+***Ext JS Version – 4.2***
 
-We will be covering below topics/points:
+***We will be covering below topics/point***
 
     •	What is Ext JS?
 
@@ -26,7 +26,7 @@ We will be covering below topics/points:
 
     •	Assignments
 
-Prerequisite for Ext JS Setup:
+***Prerequisite for Ext JS Setup***
 
 1.	XAMPP - We will use apache as web server
 
@@ -38,7 +38,7 @@ Prerequisite for Ext JS Setup:
 4.	rubby
 5.	Java
 
-Steps to Create sample Ext JS application:
+***Steps to Create sample Ext JS application***
 
 1.	Create folder sencha-training under location C:\xampp\htdocs
 2.	Create folder my-app under location C:\xampp\htdocs\sencha-training
@@ -54,14 +54,14 @@ Steps to Create sample Ext JS application:
 6.	After starting apache server - your app should be running on url – http://localhost:8080/sencha-training/my-app/
 
 
-To Run examples from this training session please follow below steps:
+
+****To Run examples from this training session please follow below steps***
 
 1. Suppose if you want to run day-1 code, donwload/clone repo.
-2. Copy app folder
-3. Paste app folder into your app directory for example - http://localhost:8080/sencha-training/my-app/
+2. Copy app and resources folder
+3. Paste/Replace app and resources folder into your app directory for example - http://localhost:8080/sencha-training/my-app/
 4. Run 'Sencha app build' command
 5. Run application on localhost, if you dont have web server, just open index.html file in any browser.
-
 
 
 
