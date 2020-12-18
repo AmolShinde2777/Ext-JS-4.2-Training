@@ -1,0 +1,40 @@
+Day 3 - Assignment
+
+1) Explore different types of form fields
+
+2) Explore more examples for Xtemplate and dataview
+
+   Refer this link : https://www.extjs-tutorial.com/extjs-examples/template-and-dataview-in-extjs-4-example
+
+3) Write your GET and POST Request using Ext.Ajax
+
+For example:
+
+###Ext.Ajax Post Request
+
+Ext.Ajax.request({
+	url: '/admin/app/product',
+	method: 'POST',
+	jsonData: {
+		
+	},
+	success: function (response) {
+		
+	},
+	failure: function (response) {
+		
+	}
+});
+
+###Ext.Ajax Get Request
+var id = 10;
+Ext.Ajax.request({
+	url: '/admin/app/product/read/' + id,
+	method: 'GET',
+	success: function (response) {
+		
+	},
+	failure: function (response) {
+		
+	}
+});

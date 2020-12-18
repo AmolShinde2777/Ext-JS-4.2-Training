@@ -1,0 +1,11 @@
+{
+    "items": [
+        { "name": "Lisa", "email": "lisa@simpsons.com", "phone": "555-111-1224", "active":"true" },
+        { "name": "Bart", "email": "bart@simpsons.com", "phone": "555-222-1234", "active":"false" },
+        { "name": "Homer", "email": "home@simpsons.com", "phone": "555-222-1244", "active":"true" },
+        { "name": "Maggie", "email": "Maggie@simpsons.com", "phone": "555-222-1244", "active":"false" },
+        { "name": "Marge", "email": "marge@simpsons.com", "phone": "555-222-1254", "active":"true" }
+        
+    ]
+}
+
